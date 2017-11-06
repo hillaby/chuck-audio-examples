@@ -7,3 +7,11 @@ directory ported to Chuck. Read more about Chuck here: http://chuck.cs.princeton
 The examples correspond to chapter of a very well-written book about electronic music, which is also
 free to read, so go on and try the examples listed in this directory while reading the book:
 http://msp.ucsd.edu/techniques.htm.
+
+Each one of the examples can be run easily:
+
+`chuck <path-to-example>`
+
+e.g.:
+
+`chuck A01.sinewave.ck`
