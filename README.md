@@ -15,3 +15,5 @@ Each one of the examples can be run easily:
 e.g.:
 
 `chuck A01.sinewave.ck`
+
+Feel free to contribute, the work has just begun. :)
